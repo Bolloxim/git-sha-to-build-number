@@ -2,6 +2,7 @@
 # convert a git sha# to a linear build number
 # Author:  Andi Smithers, The Walt Disney Company.
 # Created: Dec 2012
+# MIT License : https://github.com/Bolloxim/git-sha-to-build-number/blob/main/LICENSE
 
 
 if [ -z $1 ]; then
