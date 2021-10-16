@@ -2,7 +2,7 @@
 # Convert a build number to a sha#
 # Author:  Andi Smithers, The Walt Disney Company.
 # Created: Dec 2012
-# MIT License : https://github.com/Bolloxim/git-sha-to-build-number/LICENSE
+# MIT License : https://github.com/Bolloxim/git-sha-to-build-number/blob/main/LICENSE
 
 if [ -z $1 ]; then
   echo need a build number
